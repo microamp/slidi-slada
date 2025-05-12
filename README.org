@@ -11,20 +11,32 @@
   ...
 #+end_example
 
-** template
+** slidy html, css and js
+
+*** html
 
 #+begin_src sh
   pandoc -D slidy > default-template.html
 #+end_src
 
-** (default) theme
+*** css
 
 #+begin_src sh
   wget https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css -O default-theme.css
 #+end_src
 
-** JS
+*** js
 
 #+begin_src sh
   wget https://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js -O slidy.js
 #+end_src
+
+** emacs
+
+#+begin_example
+  M-x find-file <return> test.org <return>
+#+end_example
+
+#+begin_example
+  M-x org-pandoc-export-to-slidy <return>
+#+end_example
