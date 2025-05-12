@@ -22,3 +22,9 @@
 #+begin_src sh
   wget https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css -O default-theme.css
 #+end_src
+
+** JS
+
+#+begin_src sh
+  wget https://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js -O slidy.js
+#+end_src
