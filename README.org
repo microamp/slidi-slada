@@ -13,7 +13,7 @@ life goes on, brah!
   ...
 #+end_example
 
-** slidy html, css and js
+** slidy html, css and js (default)
 
 *** html
 
