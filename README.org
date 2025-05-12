@@ -1,6 +1,8 @@
 * s-li-di, s-la-da
 
-** brah!
+life goes on, brah!
+
+** requirements
 
 #+begin_src sh
   pandoc --version
@@ -31,12 +33,8 @@
   wget https://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js -O slidy.js
 #+end_src
 
-** emacs
+** slide generation
 
-#+begin_example
-  M-x find-file <return> test.org <return>
-#+end_example
-
-#+begin_example
-  M-x org-pandoc-export-to-slidy <return>
-#+end_example
+#+begin_src sh
+  make
+#+end_src
