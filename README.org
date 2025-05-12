@@ -16,13 +16,13 @@
 *** html
 
 #+begin_src sh
-  pandoc -D slidy > default-template.html
+  pandoc -D slidy > slidy.html
 #+end_src
 
 *** css
 
 #+begin_src sh
-  wget https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css -O default-theme.css
+  wget https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css -O slidy.css
 #+end_src
 
 *** js
