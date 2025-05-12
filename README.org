@@ -36,5 +36,5 @@ life goes on, brah!
 ** slide generation
 
 #+begin_src sh
-  make
+  make gen INPUT=your-org-file-goes-here.org
 #+end_src

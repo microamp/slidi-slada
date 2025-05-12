@@ -1,9 +1,14 @@
+INPUT ?= slides.org
+
 default: gen
 
 gen:
 	pandoc --from org --to slidy \
-		slides.org -o slides.html \
+		$(INPUT) -o $(INPUT:.org=.html) \
 		--template slidy.html
-	open slides.html
+	open $(INPUT:.org=.html)
 
-.PHONY: gen open
+clean:
+	rm $(INPUT:.org=.html)
+
+.PHONY: default gen clean
