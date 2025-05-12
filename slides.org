@@ -2,7 +2,7 @@
 
 ** Heading 2.1
 
-Some test here
+Some text here
 
 ** Heading 2.2
 
