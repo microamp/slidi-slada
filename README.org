@@ -1,0 +1,24 @@
+* s-li-di, s-li-da
+
+** brah!
+
+#+begin_src sh
+  pandoc --version
+#+end_src
+
+#+begin_example
+  pandoc 3.6.4
+  ...
+#+end_example
+
+** template
+
+#+begin_src sh
+  pandoc -D slidy > default-template.html
+#+end_src
+
+** (default) theme
+
+#+begin_src sh
+  wget https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css -O default-theme.css
+#+end_src
