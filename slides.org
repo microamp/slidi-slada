@@ -1,22 +1,22 @@
-* test
+* Heading 1
 
-** heading
+** Heading 2.1
 
-Some text under heading
+Some test here
 
-** another heading
+** Heading 2.2
 
 More text here
 
-*** subheading
+*** Heading 2.3.1
 
-- Some shell command:
+- List 1: shell command:
 
   #+begin_src sh
     whoami
   #+end_src
 
-- Some code snippet:
+- List 2: code snippet:
 
   #+begin_src sql
     SELECT
@@ -25,3 +25,15 @@ More text here
     WHERE
         some_column NOT IN ('a', 'b');
   #+end_src
+
+** Heading 2.3
+
+| column 1 | columns 2 |
+|----------+-----------|
+| item 1   | item 2    |
+| item 3   | item 4    |
+| item 5   | item 6    |
+
+Notes:
+1. hello
+2. world
