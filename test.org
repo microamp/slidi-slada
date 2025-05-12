@@ -2,7 +2,11 @@
 
 ** heading
 
+Some text under heading
+
 ** another heading
+
+More text here
 
 *** subheading
 
