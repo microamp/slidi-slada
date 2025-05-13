@@ -1,12 +1,16 @@
+#+title: Sli-di, Sla-da
+#+author: Sangho Na
+#+date: 2025-05-13
+
 * Heading 1
 
 ** Heading 2.1
 
-Some text here
+Some text here with some *bold*, /italic/, _underscore_, +strikethrough+ text
 
 ** Heading 2.2
 
-More text here
+More text here with some =inline code=
 
 *** Heading 2.3.1
 
@@ -15,6 +19,10 @@ More text here
   #+begin_src sh
     whoami
   #+end_src
+
+  - Notes:
+    1. hello
+    2. world
 
 - List 2: code snippet:
 
