@@ -2,6 +2,8 @@
 
 Generate a Slidy presentation from your org file. See [[https://www.w3.org/Talks/Tools/Slidy2/#(1)][HTML Slidy: Slide Shows in HTML and XHTML]] (w3.org) for more information.
 
+The project is named after [[https://en.wikipedia.org/wiki/Ob-La-Di,_Ob-La-Da][Ob-La-Di, Ob-La-Da]] (wikipedia.org).
+
 ** Requirements
 
 #+begin_src sh

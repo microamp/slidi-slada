@@ -10,6 +10,8 @@
 
 Generate a Slidy presentation from your org file. See [HTML Slidy: Slide Shows in HTML and XHTML](https://www.w3.org/Talks/Tools/Slidy2/#(1)) (w3.org) for more information.
 
+The project is named after [Ob-La-Di, Ob-La-Da](https://en.wikipedia.org/wiki/Ob-La-Di,_Ob-La-Da) (wikipedia.org).
+
 ## Requirements
 
 ``` bash
