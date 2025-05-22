@@ -8,9 +8,7 @@
 
 # s-li-di, s-la-da
 
-Generate a Slidy presentation from your org file.
-
-See [HTML Slidy: Slide Shows in HTML and XHTML](https://www.w3.org/Talks/Tools/Slidy2/#(1)) (w3.org) for more information.
+Generate a Slidy presentation from your org file. See [HTML Slidy: Slide Shows in HTML and XHTML](https://www.w3.org/Talks/Tools/Slidy2/#(1)) (w3.org) for more information.
 
 ## Requirements
 
