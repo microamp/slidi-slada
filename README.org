@@ -15,7 +15,7 @@ See [[https://www.w3.org/Talks/Tools/Slidy2/#(1)][HTML Slidy: Slide Shows in HTM
   ...
 #+end_example
 
-** Init
+** Getting Started
 
 1. Run
 

@@ -2,7 +2,7 @@
 
 - [s-li-di, s-la-da](#s-li-di-s-la-da)
   - [Requirements](#requirements)
-  - [Init](#init)
+  - [Getting Started](#getting-started)
   - [Slide Generation](#slide-generation)
 - [License](#license)
 
@@ -23,7 +23,7 @@ pandoc 3.6.4
 ...
 ```
 
-## Init
+## Getting Started
 
 1.  Run
 
